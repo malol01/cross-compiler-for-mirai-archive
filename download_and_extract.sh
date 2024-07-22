@@ -2,17 +2,17 @@
 
 # Array of URLs to download
 urls=(
-    "https://raw.githubusercontent.com/malol01/cross-compiler-for-mirai-archive/main/cross-compiler-armv4l.tar.gz"
-    "https://raw.githubusercontent.com/malol01/cross-compiler-for-mirai-archive/main/cross-compiler-armv5l.tar.gz"
-    "https://raw.githubusercontent.com/malol01/cross-compiler-for-mirai-archive/main/cross-compiler-armv6l.tar.gz"
+    "https://raw.githubusercontent.com/malol01/cross-compiler-for-mirai-archive/main/cross-compiler-armv4l.tar.bz2"
+    "https://raw.githubusercontent.com/malol01/cross-compiler-for-mirai-archive/main/cross-compiler-armv5l.tar.bz2"
+    "https://raw.githubusercontent.com/malol01/cross-compiler-for-mirai-archive/main/cross-compiler-armv6l.tar.bz2"
     "https://raw.githubusercontent.com/malol01/cross-compiler-for-mirai-archive/main/cross-compiler-armv7l.tar.bz2"
-    "https://raw.githubusercontent.com/malol01/cross-compiler-for-mirai-archive/main/cross-compiler-i586.tar.gz"
-    "https://raw.githubusercontent.com/malol01/cross-compiler-for-mirai-archive/main/cross-compiler-m68k.tar.gz"
-    "https://raw.githubusercontent.com/malol01/cross-compiler-for-mirai-archive/main/cross-compiler-mips.tar.gz"
-    "https://raw.githubusercontent.com/malol01/cross-compiler-for-mirai-archive/main/cross-compiler-mipsel.tar.gz"
-    "https://raw.githubusercontent.com/malol01/cross-compiler-for-mirai-archive/main/cross-compiler-powerpc.tar.gz"
-    "https://raw.githubusercontent.com/malol01/cross-compiler-for-mirai-archive/main/cross-compiler-sh4.tar.gz"
-    "https://raw.githubusercontent.com/malol01/cross-compiler-for-mirai-archive/main/cross-compiler-sparc.tar.gz"
+    "https://raw.githubusercontent.com/malol01/cross-compiler-for-mirai-archive/main/cross-compiler-i586.tar.bz2"
+    "https://raw.githubusercontent.com/malol01/cross-compiler-for-mirai-archive/main/cross-compiler-m68k.tar.bz2"
+    "https://raw.githubusercontent.com/malol01/cross-compiler-for-mirai-archive/main/cross-compiler-mips.tar.bz2"
+    "https://raw.githubusercontent.com/malol01/cross-compiler-for-mirai-archive/main/cross-compiler-mipsel.tar.bz2"
+    "https://raw.githubusercontent.com/malol01/cross-compiler-for-mirai-archive/main/cross-compiler-powerpc.tar.bz2"
+    "https://raw.githubusercontent.com/malol01/cross-compiler-for-mirai-archive/main/cross-compiler-sh4.tar.bz2"
+    "https://raw.githubusercontent.com/malol01/cross-compiler-for-mirai-archive/main/cross-compiler-sparc.tar.bz2"
     "https://raw.githubusercontent.com/malol01/cross-compiler-for-mirai-archive/main/cross-compiler-x86_64.tar.bz2"
 )
 
