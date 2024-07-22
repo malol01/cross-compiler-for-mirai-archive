@@ -3,6 +3,6 @@ This project contains the archives with: armv4l.tar ; armv5l.tar ; armv6l.tar ; 
 To download and extract the files more easily, you can use the commands:  
 curl -O https://raw.githubusercontent.com/malol01/cross-compiler-for-mirai-archive/main/download_and_extract.sh
 
-chmod +x download_extract_and_cleanup.sh
+chmod +x download_and_extract.sh
 
-./download_extract_and_cleanup.sh
+./download_and_extract.sh
