@@ -24,10 +24,17 @@ for url in "${urls[@]}"; do
     # Determine the file type and extract accordingly
     if [[ "$filename" == *.tar.gz ]]; then
         tar -xzf "$filename"
+        rm "$filename"  # Remove the archive file after extraction
     elif [[ "$filename" == *.tar.bz2 ]]; then
         tar -xjf "$filename"
+        rm "$filename"  # Remove the archive file after extraction
     else
         echo "Unknown file type for $filename"
     fi
 done
 
+# Display final message
+echo "thanks to my creator malol01 :)"
+
+# Delete the script itself
+rm -- "$0"
